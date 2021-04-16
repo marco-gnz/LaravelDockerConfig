@@ -2,4 +2,4 @@
 
 ## Deployment
 
-Configurar archivo .en a conveniencia.
+Configurar archivo .env a conveniencia.
